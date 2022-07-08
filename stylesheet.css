@@ -1,0 +1,62 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.cards7{
+  width:80%;
+  background-color: rgb(195, 82, 167);
+  border-radius: 5px;
+  margin: 40px;
+}
+.cards8{
+  width:80%;
+  background-color: rgb(160, 236, 236);
+  border-radius: 5px;
+  margin: 40px;
+}
+.cards9{
+  width:80%;
+  background-color: rgb(25, 137, 107);
+  border-radius: 5px;
+  margin: 40px;
+}
+.cards10{
+  width:80%;
+  background-color: rgb(95, 12, 12);
+  border-radius: 5px;
+  margin: 40px;
+}
+.cards11{
+  width:80%;
+  background-color: rgb(121, 92, 80);
+  border-radius: 5px;
+  margin: 40px;
+}
+.cards12{
+  width:80%;
+  background-color: rgb(140, 144, 233);
+  border-radius: 5px;
+  margin: 40px;
+}
+.image img{
+  text-align: center;
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+.des{
+  text-align: center;
+}
+button{
+  margin-top:30px;
+  margin-bottom: 30px;
+  background-color: white;
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: black;
+  color:white;
+  transition: .5s;
+}
